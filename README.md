@@ -1,4 +1,4 @@
-# Bing 每日壁纸 - UHD
+[# Bing 每日壁纸 - UHD
 
 ## 🚀 项目
 
@@ -103,3 +103,4 @@
 ## 📄 许可证
 
 [MIT](LICENSE)
+](https://github.com/binguhd/binguhd-2022/edit/main/README.md)
