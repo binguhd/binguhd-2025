@@ -1,6 +1,6 @@
-# bing-JSON-all-0.0.2.yml
+# bing-JSON-all-0.2.0.py
 # github.com/shenjuexiao
-# 20261023
+# 20261117
 
 # bing-JSON-all.py
 #!/usr/bin/env python3
